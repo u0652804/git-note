@@ -12,3 +12,6 @@ currentpassword
 newpassword
 
 newpassword
+
+## Reference
+https://stackoverflow.com/questions/8739964/change-ssh-password-in-git
