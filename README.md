@@ -38,3 +38,5 @@ https://stackoverflow.com/questions/8739964/change-ssh-password-in-git
       git checkout $commitId
       
       # ps: compare diff between two commit : git diff $commitId1 $commitId2
+      
+      # ps: exit diff : keyboard 'Q'
