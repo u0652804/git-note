@@ -40,3 +40,7 @@ https://stackoverflow.com/questions/8739964/change-ssh-password-in-git
       # ps: compare diff between two commit : git diff $commitId1 $commitId2
       
       # ps: exit diff : keyboard 'Q'
+      
+## git pull(fetch+merge) and push   
+ - ref1 : https://gitbook.tw/chapters/github/pull-from-github.html
+ - ref2 : https://gitbook.tw/chapters/github/fail-to-push.html
